@@ -1,0 +1,10 @@
+My major goal was to create a user friendly app that would be easy to navigate. It is generally not good to assume that you're the user, but I considered what I would like to see in an application for getting groceries that would ease my process from opening the app to getting my product. 
+
+Decisions I made when creating the stories in map
+1. I decided to make the payment section of the app the easiest to navigate by providing multiple payment options, an option to save them on the app incase of another purchase, and option to pay on delivery because people can tend to change their mind on purchasing something when the payment section especially is not easy to navigate. I also put an option of sending a verification code to the mobile and email associated with the payment information for confirmation and to build trust in the customer for the application and company at large.
+
+2. Majority of grocery delivery apps in the market tend to basically forget their customer or end the process of shopping once the customer has received the contact information of the delivery person. I decided to enable a tracker on the delivery person's device that would help the customer monitor the movement of the delivery person and know how close the person is to their destination. Even after the product has been delivered, the user is still the one to end the process while confirming that the product has been delivered safely to them. A unique code would also be generated for the user to share with the delivery person to prevent theft of product.
+
+3. I also decided to award frequent store customers by providing points to each customer after every purchase for them to be able to use these points to purchase from the store instead of money. This feature is still under consideration and has been placed under unscheduled cards because there is still a lot more like what point should worth, what products could and could not be bought with points, and how many points to be given for a certain amount of purchase.
+
+I made my "USER STEPS" multiple colors for fun!
