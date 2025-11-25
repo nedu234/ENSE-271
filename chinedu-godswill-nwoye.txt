@@ -1,0 +1,4 @@
+1. Explain the idea of version control, why is it used, and show me an example from the lab
+2. Explain the best method for getting files from your computer to github and why.
+3. Consider your Wireframes – Explain how you would work with a user at this stage of design to improve the design.
+
